@@ -1,5 +1,4 @@
-# bamboolib - template for creating your own binder notebook
-
+# Hosted notebooks for quicker development and version control on Jupyter notebooks
 
 ## How to use this?
 
